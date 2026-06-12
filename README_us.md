@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    MiMo TTS Studio · 中文版                    -->
+<!--                    MiMo TTS Studio · English                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:800px;margin:0 auto;padding:50px 20px 30px;">
 <tr><td align="center">
 
 <!-- Language Switcher -->
-<a href="README_us.md" style="display:inline-block;padding:5px 14px;border-radius:999px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);font-size:10px;font-weight:600;color:#10b981;letter-spacing:0.12em;text-transform:uppercase;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">
-&#127760; English Version
+<a href="README.md" style="display:inline-block;padding:5px 14px;border-radius:999px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);font-size:10px;font-weight:600;color:#10b981;letter-spacing:0.12em;text-transform:uppercase;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">
+&#127760; 中文版
 </a>
 
 <h1 style="margin:24px 0 0;font-size:46px;font-weight:800;letter-spacing:-0.04em;line-height:1.05;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">
@@ -17,8 +17,8 @@
 </h1>
 
 <p style="margin:14px auto 0;font-size:16px;color:#a1a1aa;line-height:1.7;max-width:480px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">
-基于小米 MiMo-V2.5-TTS 的 AI 语音合成工作室<br/>
-<span style="color:#71717a;font-size:13px;">3 种模型 · 13 种导演级预设 · 音色设计与克隆</span>
+AI voice synthesis studio powered by Xiaomi MiMo-V2.5-TTS<br/>
+<span style="color:#71717a;font-size:13px;">3 models · 13 director-level presets · voice design &amp; clone</span>
 </p>
 
 <table cellpadding="0" cellspacing="0" style="margin-top:24px;">
@@ -49,112 +49,112 @@
 <hr style="height:1px;background:rgba(255,255,255,0.05);border:none;margin:40px 0;"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    功能特性                                    -->
+<!--                    FEATURES                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:1000px;margin:0 auto;padding:50px 20px;">
 <tr><td align="center">
 <table cellpadding="0" cellspacing="0" style="margin:0 auto 16px;">
-<tr><td style="padding:5px 14px;border-radius:999px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);font-size:10px;font-weight:600;color:#10b981;letter-spacing:0.15em;text-transform:uppercase;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#10022; 功能特性</td></tr>
+<tr><td style="padding:5px 14px;border-radius:999px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);font-size:10px;font-weight:600;color:#10b981;letter-spacing:0.15em;text-transform:uppercase;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#10022; Features</td></tr>
 </table>
-<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">三种模式，无限可能</h2>
-<p style="margin:0;font-size:14px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">每种模式专为不同的创作场景设计</p>
+<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Three Modes, Infinite Voices</h2>
+<p style="margin:0;font-size:14px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Each mode is purpose-built for a different creation scenario</p>
 </td></tr>
 </table>
 
 <!-- Feature Cards -->
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:1000px;margin:0 auto;">
 <tr>
-<!-- 标准合成 -->
+<!-- Standard Synthesis -->
 <td width="50%" valign="top" style="padding:10px;">
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius:16px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:24px;">
 
 <div style="width:40px;height:40px;border-radius:10px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);text-align:center;line-height:40px;font-size:18px;margin-bottom:14px;">&#127908;</div>
-<h3 style="margin:0 0 10px;font-size:18px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">标准合成</h3>
-<p style="margin:0 0 4px;font-size:13px;color:#a1a1aa;line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">9 种高保真音色，13 种导演级预设风格。通过自然语言或音频标签控制语调、情感与节奏。</p>
+<h3 style="margin:0 0 10px;font-size:18px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Standard Synthesis</h3>
+<p style="margin:0 0 4px;font-size:13px;color:#a1a1aa;line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">9 high-fidelity voices with 13 director-level style presets. Control tone, emotion, and rhythm using natural language or fine-grained audio tags.</p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:14px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;border-collapse:collapse;">
 <tr style="border-bottom:1px solid rgba(255,255,255,0.06);">
-<td style="padding:7px 8px;font-size:10px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">音色</td>
+<td style="padding:7px 8px;font-size:10px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">Voice</td>
 <td style="padding:7px 8px;font-size:10px;font-weight:600;color:#52525b;"></td>
-<td style="padding:7px 8px;font-size:10px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">特征</td>
+<td style="padding:7px 8px;font-size:10px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">Feature</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127852; 冰糖</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127852; Bing Tang</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(236,72,153,0.12);color:#ec4899;font-size:10px;text-align:center;line-height:20px;">&#9792;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">清甜明亮，活泼可爱</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Sweet, bright, lively</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127800; 茉莉</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127800; Mo Li</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(236,72,153,0.12);color:#ec4899;font-size:10px;text-align:center;line-height:20px;">&#9792;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">温柔细腻，清新淡雅</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Gentle, delicate, fresh</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#129380; 苏打</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#129380; Su Da</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(59,130,246,0.12);color:#3b82f6;font-size:10px;text-align:center;line-height:20px;">&#9794;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">清爽自然，年轻活力</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Fresh, natural, young</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127794; 白桦</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127794; Bai Hua</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(59,130,246,0.12);color:#3b82f6;font-size:10px;text-align:center;line-height:20px;">&#9794;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">沉稳厚重，专业权威</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Steady, authoritative</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#128105;&#8205;&#128188; 米娅</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#128105;&#8205;&#128188; Mia</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(236,72,153,0.12);color:#ec4899;font-size:10px;text-align:center;line-height:20px;">&#9792;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">优雅知性，温和亲切</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Elegant, intellectual</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#128156; 克洛伊</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#128156; Chloe</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(236,72,153,0.12);color:#ec4899;font-size:10px;text-align:center;line-height:20px;">&#9792;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">甜美温柔，情感丰富</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Sweet, emotional</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#128293; 米洛</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#128293; Milo</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(59,130,246,0.12);color:#3b82f6;font-size:10px;text-align:center;line-height:20px;">&#9794;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">温暖磁性，亲和力强</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Warm, magnetic</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#9889; 迪恩</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#9889; Dean</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(59,130,246,0.12);color:#3b82f6;font-size:10px;text-align:center;line-height:20px;">&#9794;</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">浑厚低沉，刚毅有力</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Deep, powerful</td>
 </tr>
 <tr>
-<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127908;&#65039; 默认</td>
+<td style="padding:7px 8px;font-size:12px;color:#fafafa;font-weight:600;">&#127908;&#65039; Default</td>
 <td style="padding:7px 8px;"><span style="display:inline-block;width:20px;height:20px;border-radius:4px;background:rgba(161,161,170,0.12);color:#a1a1aa;font-size:10px;text-align:center;line-height:20px;">—</span></td>
-<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">通用音色，均衡自然</td>
+<td style="padding:7px 8px;font-size:11px;color:#a1a1aa;">Universal, balanced</td>
 </tr>
 </table>
 
 <p style="margin:16px 0 0;font-size:13px;">
-<a href="/standard" style="color:#10b981;text-decoration:none;font-weight:500;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">立即体验 &#8594;</a>
+<a href="/standard" style="color:#10b981;text-decoration:none;font-weight:500;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Try it now &#8594;</a>
 </p>
 
 </td></tr>
 </table>
 </td>
 
-<!-- Right: 音色设计 + 音色克隆 -->
+<!-- Right: Voice Design + Voice Clone -->
 <td width="50%" valign="top" style="padding:10px;">
 
-<!-- 音色设计 -->
+<!-- Voice Design -->
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:16px;border-radius:16px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:24px;">
 <div style="width:40px;height:40px;border-radius:10px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);text-align:center;line-height:40px;font-size:18px;margin-bottom:14px;">&#10024;</div>
-<h3 style="margin:0 0 10px;font-size:18px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">音色设计</h3>
-<p style="margin:0;font-size:13px;color:#a1a1aa;line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">仅通过文字描述即可创造全新音色，无需任何音频样本。支持保存为可复用的自定义预设。</p>
-<p style="margin:14px 0 0;font-size:13px;"><a href="/design" style="color:#10b981;text-decoration:none;font-weight:500;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">立即体验 &#8594;</a></p>
+<h3 style="margin:0 0 10px;font-size:18px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Voice Design</h3>
+<p style="margin:0;font-size:13px;color:#a1a1aa;line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Create entirely new voices from text descriptions alone — no audio samples needed. Save your designs as reusable custom presets.</p>
+<p style="margin:14px 0 0;font-size:13px;"><a href="/design" style="color:#10b981;text-decoration:none;font-weight:500;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Try it now &#8594;</a></p>
 </td></tr>
 </table>
 
-<!-- 音色克隆 -->
+<!-- Voice Clone -->
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius:16px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:24px;">
 <div style="width:40px;height:40px;border-radius:10px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);text-align:center;line-height:40px;font-size:18px;margin-bottom:14px;">&#127917;</div>
-<h3 style="margin:0 0 10px;font-size:18px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">音色克隆</h3>
-<p style="margin:0;font-size:13px;color:#a1a1aa;line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">上传几秒钟的任意音频（MP3、WAV、M4A，最大 10MB），MiMo 即可精准复刻该音色的个性化特征。</p>
-<p style="margin:14px 0 0;font-size:13px;"><a href="/clone" style="color:#10b981;text-decoration:none;font-weight:500;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">立即体验 &#8594;</a></p>
+<h3 style="margin:0 0 10px;font-size:18px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Voice Clone</h3>
+<p style="margin:0;font-size:13px;color:#a1a1aa;line-height:1.7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Upload a few seconds of any audio (MP3, WAV, M4A — max 10MB). MiMo replicates the voice's unique characteristics with remarkable accuracy.</p>
+<p style="margin:14px 0 0;font-size:13px;"><a href="/clone" style="color:#10b981;text-decoration:none;font-weight:500;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Try it now &#8594;</a></p>
 </td></tr>
 </table>
 
@@ -165,50 +165,50 @@
 <hr style="height:1px;background:rgba(255,255,255,0.05);border:none;margin:40px 0;"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    导演级预设                                   -->
+<!--                    DIRECTOR PRESETS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:1000px;margin:0 auto;padding:50px 20px;">
 <tr><td align="center">
 <table cellpadding="0" cellspacing="0" style="margin:0 auto 16px;">
-<tr><td style="padding:5px 14px;border-radius:999px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);font-size:10px;font-weight:600;color:#10b981;letter-spacing:0.15em;text-transform:uppercase;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#127916; 预设</td></tr>
+<tr><td style="padding:5px 14px;border-radius:999px;background:rgba(16,185,129,0.08);border:1px solid rgba(16,185,129,0.2);font-size:10px;font-weight:600;color:#10b981;letter-spacing:0.15em;text-transform:uppercase;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#127916; Presets</td></tr>
 </table>
-<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">导演级配音指导</h2>
-<p style="margin:0;font-size:14px;color:#a1a1aa;max-width:560px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">每个预设都定义了<strong style="color:#d4d4d8;">角色</strong>、<strong style="color:#d4d4d8;">场景</strong>和<strong style="color:#d4d4d8;">表演方向</strong>，实现真正富有表现力的语音合成</p>
+<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Director-Level Voice Direction</h2>
+<p style="margin:0;font-size:14px;color:#a1a1aa;max-width:560px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Each preset defines the <strong style="color:#d4d4d8;">role</strong>, <strong style="color:#d4d4d8;">scene</strong>, and <strong style="color:#d4d4d8;">performance direction</strong> for truly expressive synthesis</p>
 </td></tr>
 </table>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:1000px;margin:0 auto;">
 <tr>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128240;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">新闻播报</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">沉稳权威的主播腔</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128214;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">故事朗读</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">引人入胜的叙事节奏</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128123;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">恐怖小说</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">令人毛骨悚然的张力</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#127916;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">纪录片</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">沉稳克制的旁白</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128240;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">News Broadcast</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Steady, authoritative anchor</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128214;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Storytelling</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Engaging narrative</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128123;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Horror Fiction</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Chilling tension</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#127916;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Documentary</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Measured narration</p></td></tr></table></td>
 </tr>
 <tr>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#129489;&#8205;&#127919;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">正派角色</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">英雄气概</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#129489;&#8205;&#128128;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">反派角色</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">反派低语</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#127908;&#65039;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">广告配音</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">精致商业配音</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128220;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">诗歌朗诵</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">富有韵律的诗意表达</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#129489;&#8205;&#127919;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Hero</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Heroic resolve</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#129489;&#8205;&#128128;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Villain</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Menacing whisper</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#127908;&#65039;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Voiceover</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Commercial delivery</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128220;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Poetry</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Lyrical cadence</p></td></tr></table></td>
 </tr>
 <tr>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128187;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">科技评测</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">犀利活力的科技解说</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#129524;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">儿童读物</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">温暖活泼的角色演绎</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#127807;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">平静舒缓</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">冥想般的舒缓语调</p></td></tr></table></td>
-<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#9728;&#65039;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">温暖治愈</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">如毯子般温暖的陪伴</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#128187;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Tech Review</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Sharp analysis</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#129524;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Children's Book</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Warm, playful</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#127807;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Calm</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Soothing tones</p></td></tr></table></td>
+<td width="25%" valign="top" style="padding:7px;"><table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);"><tr><td style="padding:18px;"><span style="font-size:24px;display:block;margin-bottom:8px;">&#9728;&#65039;</span><p style="margin:0 0 3px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">Warm</p><p style="margin:0;font-size:10px;color:#71717a;font-family:-apple-system,sans-serif;">Soft comfort</p></td></tr></table></td>
 </tr>
 </table>
 
 <hr style="height:1px;background:rgba(255,255,255,0.05);border:none;margin:40px 0;"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    技术栈                                      -->
+<!--                    TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:1000px;margin:0 auto;padding:50px 20px;">
 <tr><td align="center">
-<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#127959; 技术栈</h2>
-<p style="margin:0;font-size:14px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">每一层都为性能、开发体验和美学而选</p>
+<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#127959; Tech Stack</h2>
+<p style="margin:0;font-size:14px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Every layer is chosen for performance, DX, and aesthetics</p>
 </td></tr>
 </table>
 
@@ -228,16 +228,15 @@
 <hr style="height:1px;background:rgba(255,255,255,0.05);border:none;margin:40px 0;"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    快速开始 + 配置 + 启动                       -->
+<!--                    QUICK START + CONFIG                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:720px;margin:0 auto;padding:50px 20px;">
 <tr><td>
 
-<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#9889; 快速开始</h2>
-<p style="margin:0;text-align:center;font-size:14px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">无需训练，无需复杂配置。克隆、配置、启动。</p>
+<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#9889; Quick Start</h2>
+<p style="margin:0;text-align:center;font-size:14px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">No training, no complex setup. Just clone, configure, and go.</p>
 
-<!-- Terminal: Clone & Install -->
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:24px;border-radius:12px;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:10px 16px;border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);">
 <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#ef4444;margin-right:6px;"></span>
@@ -246,21 +245,20 @@
 <span style="font-size:11px;color:#52525b;font-family:-apple-system,sans-serif;">terminal</span>
 </td></tr>
 <tr><td style="padding:18px;">
-<pre style="margin:0;font-size:12px;line-height:1.8;color:#a1a1aa;font-family:'SF Mono','Fira Code',Consolas,monospace;overflow-x:auto;"><span style="color:#52525b;"># 克隆仓库</span>
+<pre style="margin:0;font-size:12px;line-height:1.8;color:#a1a1aa;font-family:'SF Mono','Fira Code',Consolas,monospace;overflow-x:auto;"><span style="color:#52525b;"># Clone the repository</span>
 git clone https://github.com/binggan23/mimo-tts-studio.git
 cd mimo-tts-studio/mimotts-app
 
-<span style="color:#52525b;"># 安装依赖</span>
+<span style="color:#52525b;"># Install dependencies</span>
 npm install
 
-<span style="color:#52525b;"># 启动开发服务器</span>
+<span style="color:#52525b;"># Start development server</span>
 npm run dev</pre>
 </td></tr>
 </table>
 
-<!-- Configuration -->
-<h3 style="margin:28px 0 12px;font-size:20px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128274; 配置</h3>
-<p style="margin:0 0 14px;font-size:13px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">在项目根目录创建 <code style="padding:2px 7px;border-radius:4px;background:rgba(255,255,255,0.06);font-family:'SF Mono',monospace;font-size:11px;color:#10b981;">config.json</code>：</p>
+<h3 style="margin:28px 0 12px;font-size:20px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128274; Configuration</h3>
+<p style="margin:0 0 14px;font-size:13px;color:#a1a1aa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">Create <code style="padding:2px 7px;border-radius:4px;background:rgba(255,255,255,0.06);font-family:'SF Mono',monospace;font-size:11px;color:#10b981;">config.json</code> in the project root:</p>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:10px 16px;border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);">
@@ -284,12 +282,11 @@ npm run dev</pre>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:12px;border-radius:8px;background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.12);font-family:-apple-system,sans-serif;">
 <tr><td style="padding:12px 16px;font-size:11px;color:#eab308;line-height:1.6;">
-&#9888;&#65039; <strong>安全提示：</strong><code style="padding:1px 5px;border-radius:3px;background:rgba(234,179,8,0.1);font-family:'SF Mono',monospace;font-size:10px;">config.json</code> 已被 gitignore，切勿将 API 密钥提交到公开仓库。
+&#9888;&#65039; <strong>Security:</strong> <code style="padding:1px 5px;border-radius:3px;background:rgba(234,179,8,0.1);font-family:'SF Mono',monospace;font-size:10px;">config.json</code> is gitignored. Never commit API keys to public repositories.
 </td></tr>
 </table>
 
-<!-- Run Commands -->
-<h3 style="margin:28px 0 12px;font-size:20px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128640; 启动</h3>
+<h3 style="margin:28px 0 12px;font-size:20px;font-weight:700;color:#fafafa;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128640; Run</h3>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:10px 16px;border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);">
@@ -299,10 +296,10 @@ npm run dev</pre>
 <span style="font-size:11px;color:#52525b;font-family:-apple-system,sans-serif;">package.json scripts</span>
 </td></tr>
 <tr><td style="padding:18px;">
-<pre style="margin:0;font-size:12px;line-height:1.8;color:#a1a1aa;font-family:'SF Mono','Fira Code',Consolas,monospace;">npm run dev      <span style="color:#52525b;"># 开发模式 → localhost:3000</span>
-npm run build    <span style="color:#52525b;"># 生产构建</span>
-npm run start    <span style="color:#52525b;"># 生产服务器</span>
-npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
+<pre style="margin:0;font-size:12px;line-height:1.8;color:#a1a1aa;font-family:'SF Mono','Fira Code',Consolas,monospace;">npm run dev      <span style="color:#52525b;"># Development → localhost:3000</span>
+npm run build    <span style="color:#52525b;"># Production build</span>
+npm run start    <span style="color:#52525b;"># Production server</span>
+npm run lint     <span style="color:#52525b;"># ESLint</span></pre>
 </td></tr>
 </table>
 
@@ -312,12 +309,12 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <hr style="height:1px;background:rgba(255,255,255,0.05);border:none;margin:40px 0;"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    项目结构                                    -->
+<!--                    PROJECT STRUCTURE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:720px;margin:0 auto;padding:50px 20px;">
 <tr><td>
-<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128193; 项目结构</h2>
+<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128193; Project Structure</h2>
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:20px;border-radius:12px;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:10px 16px;border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);">
 <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#ef4444;margin-right:6px;"></span>
@@ -328,17 +325,17 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <tr><td style="padding:18px;">
 <pre style="margin:0;font-size:11px;line-height:1.8;color:#a1a1aa;font-family:'SF Mono','Fira Code',Consolas,monospace;overflow-x:auto;"><span style="color:#10b981;font-weight:600;">mimotts-app/</span>
 ├── <span style="color:#10b981;">app/</span>
-│   ├── <span style="color:#a1a1aa;">page.tsx</span>                  <span style="color:#52525b;"># 首页</span>
-│   ├── <span style="color:#10b981;">standard/</span><span style="color:#a1a1aa;">page.tsx</span>         <span style="color:#52525b;"># 标准合成</span>
-│   ├── <span style="color:#10b981;">design/</span><span style="color:#a1a1aa;">page.tsx</span>           <span style="color:#52525b;"># 音色设计</span>
-│   ├── <span style="color:#10b981;">clone/</span><span style="color:#a1a1aa;">page.tsx</span>            <span style="color:#52525b;"># 音色克隆</span>
+│   ├── <span style="color:#a1a1aa;">page.tsx</span>                  <span style="color:#52525b;"># Landing page</span>
+│   ├── <span style="color:#10b981;">standard/</span><span style="color:#a1a1aa;">page.tsx</span>         <span style="color:#52525b;"># Standard synthesis</span>
+│   ├── <span style="color:#10b981;">design/</span><span style="color:#a1a1aa;">page.tsx</span>           <span style="color:#52525b;"># Voice design</span>
+│   ├── <span style="color:#10b981;">clone/</span><span style="color:#a1a1aa;">page.tsx</span>            <span style="color:#52525b;"># Voice clone</span>
 │   └── <span style="color:#10b981;">api/</span>
-│       ├── <span style="color:#10b981;">tts/</span><span style="color:#a1a1aa;">route.ts</span>          <span style="color:#52525b;"># TTS 代理接口</span>
-│       └── <span style="color:#10b981;">presets/</span><span style="color:#a1a1aa;">route.ts</span>      <span style="color:#52525b;"># 预设管理接口</span>
-├── <span style="color:#10b981;">components/</span>                   <span style="color:#52525b;"># React 组件</span>
-├── <span style="color:#10b981;">lib/</span>                          <span style="color:#52525b;"># 工具库</span>
-├── <span style="color:#10b981;">presets/</span>                      <span style="color:#52525b;"># 13 个内置预设</span>
-├── <span style="color:#a1a1aa;">config.json</span>                   <span style="color:#52525b;"># API 密钥 (gitignored)</span>
+│       ├── <span style="color:#10b981;">tts/</span><span style="color:#a1a1aa;">route.ts</span>          <span style="color:#52525b;"># TTS proxy API</span>
+│       └── <span style="color:#10b981;">presets/</span><span style="color:#a1a1aa;">route.ts</span>      <span style="color:#52525b;"># Preset CRUD API</span>
+├── <span style="color:#10b981;">components/</span>                   <span style="color:#52525b;"># React components</span>
+├── <span style="color:#10b981;">lib/</span>                          <span style="color:#52525b;"># Utilities</span>
+├── <span style="color:#10b981;">presets/</span>                      <span style="color:#52525b;"># 13 built-in presets</span>
+├── <span style="color:#a1a1aa;">config.json</span>                   <span style="color:#52525b;"># API keys (gitignored)</span>
 └── <span style="color:#a1a1aa;">package.json</span></pre>
 </td></tr>
 </table>
@@ -348,21 +345,20 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <hr style="height:1px;background:rgba(255,255,255,0.05);border:none;margin:40px 0;"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    接口文档 + 音频标签                          -->
+<!--                    API REFERENCE + TAGS                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:720px;margin:0 auto;padding:50px 20px;">
 <tr><td>
 
-<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128268; 接口文档</h2>
+<h2 style="margin:0 0 10px;font-size:34px;font-weight:800;letter-spacing:-0.03em;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#128268; API Reference</h2>
 
-<!-- POST /api/tts -->
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:24px;border-radius:14px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:22px;">
 <table cellpadding="0" cellspacing="0"><tr>
 <td style="padding:4px 12px;border-radius:6px;background:rgba(16,185,129,0.12);border:1px solid rgba(16,185,129,0.2);font-size:11px;font-weight:700;color:#10b981;font-family:'SF Mono',monospace;">POST</td>
 <td style="padding-left:12px;font-size:13px;font-family:'SF Mono',monospace;color:#fafafa;">/api/tts</td>
-<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">语音合成</td>
+<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">Synthesize Speech</td>
 </tr></table>
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:14px;border-radius:10px;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:10px 16px;border-bottom:1px solid rgba(255,255,255,0.06);background:rgba(255,255,255,0.02);">
@@ -374,94 +370,93 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <tr><td style="padding:16px;">
 <pre style="margin:0;font-size:12px;line-height:1.8;color:#a1a1aa;font-family:'SF Mono','Fira Code',Consolas,monospace;overflow-x:auto;">{
   <span style="color:#10b981;">"model"</span>: <span style="color:#eab308;">"mimo-v2.5-tts"</span>,
-  <span style="color:#10b981;">"text"</span>: <span style="color:#eab308;">"你好，这是一段测试文本。"</span>,
+  <span style="color:#10b981;">"text"</span>: <span style="color:#eab308;">"Hello, this is a test."</span>,
   <span style="color:#10b981;">"voice"</span>: <span style="color:#eab308;">"Chloe"</span>,
-  <span style="color:#10b981;">"style"</span>: <span style="color:#eab308;">"温暖友好的语调"</span>,
+  <span style="color:#10b981;">"style"</span>: <span style="color:#eab308;">"Warm and friendly tone"</span>,
   <span style="color:#10b981;">"tags"</span>: <span style="color:#eab308;">"[happy][gentle]"</span>
 }</pre>
 </td></tr>
 </table>
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:10px;font-family:-apple-system,sans-serif;border-collapse:collapse;">
 <tr style="border-bottom:1px solid rgba(255,255,255,0.06);">
-<td style="padding:7px 10px;font-size:9px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">参数</td>
-<td style="padding:7px 10px;font-size:9px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">必填</td>
-<td style="padding:7px 10px;font-size:9px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">说明</td>
+<td style="padding:7px 10px;font-size:9px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">Parameter</td>
+<td style="padding:7px 10px;font-size:9px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">Required</td>
+<td style="padding:7px 10px;font-size:9px;font-weight:600;color:#52525b;text-transform:uppercase;letter-spacing:0.08em;">Description</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">model</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">&#10004;&#65039;</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">模型标识</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Model ID</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">text</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">&#10004;&#65039;</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">待合成文本</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Text to synthesize</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">voice</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">&#9889;</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">音色名称（标准模式）</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Voice name (standard mode)</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">voiceDescription</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">&#9889;</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">音色描述（设计模式）</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Description (design mode)</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">voiceAudio</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">&#9889;</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Base64 音频（克隆模式）</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Base64 audio (clone mode)</td>
 </tr>
 <tr style="border-bottom:1px solid rgba(255,255,255,0.04);">
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">style</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#71717a;">—</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">风格指令</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Style direction</td>
 </tr>
 <tr>
 <td style="padding:7px 10px;font-size:11px;"><code style="padding:1px 5px;border-radius:3px;background:rgba(255,255,255,0.05);font-family:'SF Mono',monospace;font-size:10px;color:#10b981;">tags</code></td>
 <td style="padding:7px 10px;font-size:11px;color:#71717a;">—</td>
-<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">音频标签</td>
+<td style="padding:7px 10px;font-size:11px;color:#a1a1aa;">Audio tags</td>
 </tr>
 </table>
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:10px;border-radius:8px;background:rgba(59,130,246,0.05);border:1px solid rgba(59,130,246,0.12);font-family:-apple-system,sans-serif;">
 <tr><td style="padding:12px 16px;font-size:11px;color:#93c5fd;line-height:1.6;">
-&#8505;&#65039; <strong>响应：</strong>WAV 音频文件（PCM16, 24kHz, 单声道）<br/>
-<strong>自动分段：</strong>超过 300 字符的文本自动按句分割，以 200ms 静音间隔拼接。
+&#8505;&#65039; <strong>Response:</strong> WAV audio file (PCM16, 24kHz, mono)<br/>
+<strong>Auto-segmentation:</strong> Text &gt; 300 chars is split at sentence boundaries with 200ms silence gaps.
 </td></tr>
 </table>
 </td></tr>
 </table>
 
-<!-- Preset APIs -->
 <table width="100%" cellpadding="0" cellspacing="0" style="margin-top:14px;border-radius:14px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:18px 22px;">
 <table cellpadding="0" cellspacing="0" style="margin-bottom:8px;"><tr>
 <td style="padding:4px 12px;border-radius:6px;background:rgba(59,130,246,0.12);border:1px solid rgba(59,130,246,0.2);font-size:11px;font-weight:700;color:#3b82f6;font-family:'SF Mono',monospace;">GET</td>
 <td style="padding-left:12px;font-size:13px;font-family:'SF Mono',monospace;color:#fafafa;">/api/presets</td>
-<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">获取所有预设</td>
+<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">List all presets</td>
 </tr></table>
 <table cellpadding="0" cellspacing="0" style="margin-bottom:8px;"><tr>
 <td style="padding:4px 12px;border-radius:6px;background:rgba(16,185,129,0.12);border:1px solid rgba(16,185,129,0.2);font-size:11px;font-weight:700;color:#10b981;font-family:'SF Mono',monospace;">POST</td>
 <td style="padding-left:12px;font-size:13px;font-family:'SF Mono',monospace;color:#fafafa;">/api/presets</td>
-<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">保存预设</td>
+<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">Save preset</td>
 </tr></table>
 <table cellpadding="0" cellspacing="0"><tr>
 <td style="padding:4px 12px;border-radius:6px;background:rgba(239,68,68,0.12);border:1px solid rgba(239,68,68,0.2);font-size:11px;font-weight:700;color:#ef4444;font-family:'SF Mono',monospace;">DEL</td>
 <td style="padding-left:12px;font-size:13px;font-family:'SF Mono',monospace;color:#fafafa;">/api/presets?id=&lt;id&gt;</td>
-<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">删除预设</td>
+<td style="padding-left:12px;font-size:11px;color:#71717a;font-family:-apple-system,sans-serif;">Delete preset</td>
 </tr></table>
 </td></tr>
 </table>
 
 <!-- Audio Tags -->
-<h3 style="margin:32px 0 12px;font-size:20px;font-weight:700;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#127912; 音频标签速查</h3>
+<h3 style="margin:32px 0 12px;font-size:20px;font-weight:700;color:#fafafa;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;">&#127912; Audio Tag Reference</h3>
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" valign="top" style="padding:7px;">
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:18px;">
-<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#128522; 情感</p>
+<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#128522; Emotions</p>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[happy]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[sad]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[angry]</span>
@@ -470,7 +465,7 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[shy]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[confident]</span>
 <br/><br/>
-<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#127925; 语调</p>
+<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#127925; Tone</p>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[gentle]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[cold]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[lively]</span>
@@ -481,14 +476,14 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <td width="50%" valign="top" style="padding:7px;">
 <table width="100%" cellpadding="0" cellspacing="0" style="border-radius:12px;background:#0f0f0f;border:1px solid rgba(255,255,255,0.06);">
 <tr><td style="padding:18px;">
-<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#128483;&#65039; 方言</p>
+<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#128483;&#65039; Dialects</p>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[northeast]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[sichuan]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[henan]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[cantonese]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[taiwanese]</span>
 <br/><br/>
-<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#127916; 动作</p>
+<p style="margin:0 0 10px;font-size:13px;font-weight:600;color:#fafafa;font-family:-apple-system,sans-serif;">&#127916; Actions</p>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[breathing]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[laughing]</span>
 <span style="display:inline-block;padding:3px 8px;border-radius:5px;font-size:10px;font-family:'SF Mono',monospace;color:#a1a1aa;background:#0a0a0a;border:1px solid rgba(255,255,255,0.06);margin:2px;">[sobbing]</span>
@@ -509,9 +504,9 @@ npm run lint     <span style="color:#52525b;"># 代码检查</span></pre>
 <table width="100%" cellpadding="0" cellspacing="0" style="max-width:720px;margin:0 auto;padding:30px 20px;">
 <tr><td align="center">
 <p style="margin:0;font-size:11px;color:#52525b;line-height:2;font-family:-apple-system,sans-serif;">
-基于 <strong style="color:#71717a;">MIT License</strong> 开源<br/>
+Licensed under the <strong style="color:#71717a;">MIT License</strong><br/>
 <span style="color:#3f3f46;">—</span><br/>
-<a href="README_us.md" style="color:#10b981;text-decoration:none;font-size:12px;font-weight:500;">&#127760; English Version</a><br/><br/>
+<a href="README.md" style="color:#10b981;text-decoration:none;font-size:12px;font-weight:500;">&#127760; 中文版</a><br/><br/>
 Made with <span style="color:#ef4444;">&#9829;</span> by <a href="https://github.com/binggan23" style="color:#a1a1aa;text-decoration:none;">binggan23</a><br/>
 Powered by <a href="https://platform.xiaomimimo.com/" style="color:#a1a1aa;text-decoration:none;">Xiaomi MiMo-V2.5-TTS</a> &middot; Built with <a href="https://nextjs.org/" style="color:#a1a1aa;text-decoration:none;">Next.js</a> + <a href="https://tailwindcss.com/" style="color:#a1a1aa;text-decoration:none;">Tailwind CSS</a>
 </p>
